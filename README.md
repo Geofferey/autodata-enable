@@ -1,0 +1,2 @@
+# autodata-enable
+magisk-autodata
