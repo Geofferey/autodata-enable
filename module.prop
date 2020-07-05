@@ -1,0 +1,6 @@
+id=com.geofferey.autodata
+name=Automatic Data Enabler
+version=v1.0.0
+versionCode=1
+author=geofferey @ xda-developers
+description=A simple module that automatically disables airplane mode while also enabling WiFi and mobile data on boot.
